@@ -1,0 +1,1 @@
+CREATE SCHEMA `pry_jewelery_lovers`;
